@@ -51,5 +51,68 @@ Organizations require quick, reliable visibility into sales performance and prof
 
 * **Sales Trend (Line Chart)** — temporal performance
 * **Sales vs Profit (Combo Chart)** — efficiency comparison
-* **Category Analysis (Treemap/Donut)** — contribution breakdown
-* **Top Products (**
+* **Top Products (Bar Chart)** — ranking analysis
+* **Regional Analysis (Map/Bar)** — geographic distribution
+* **Order Insights (Funnel/Column)** — order status distribution
+
+### Interactivity
+
+* Slicers: Year, Category, Customer Location
+* All visuals are synchronized via Pivot connections
+
+---
+
+## 7. Key Insights
+
+* A small subset of products contributes disproportionately to total revenue
+* Certain categories exhibit **high sales but lower profit margins**
+* Sales show **monthly variation**, indicating seasonality
+* Regional analysis highlights concentration in specific locations
+
+---
+
+## 8. Design Principles
+
+* **KPI-first layout** for executive readability
+* Consistent color palette (Sales vs Profit distinction)
+* Minimalist UI (no gridlines, aligned visuals)
+* Logical flow: Summary → Trends → Detailed Insights
+
+---
+
+## 9. How to Use
+
+1. Download `Amazon_Sales_Dashboard.xlsx`
+2. Open in Microsoft Excel
+3. Use slicers to filter by Year, Category, or Location
+4. Review KPIs and charts for insights
+
+---
+
+## 10. Repository Structure
+
+* `Amazon_Sales_Dashboard.xlsx` → Interactive dashboard
+* `dataset.csv` → Source dataset
+* `README.md` → Project documentation
+
+---
+
+## 11. Limitations & Future Work
+
+* No predictive modeling (forecasting can be added)
+* Static Excel environment (can be extended to Power BI)
+* Potential integration with automated data refresh
+
+---
+
+## 12. Conclusion
+
+This project demonstrates the application of Excel for **business intelligence reporting**, combining data transformation, visualization, and interactive filtering to support data-driven decisions.
+
+---
+
+## 13. Author
+
+**Namitha K**
+Aspiring Data Analyst
+
